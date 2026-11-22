@@ -5,6 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/safelog-js.svg)](https://www.npmjs.com/package/safelog-js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/)
+[![GitHub](https://img.shields.io/badge/github-Srikar1824%2Fsafelog-blue?logo=github)](https://github.com/Srikar1824/safelog)
 
 ---
 

@@ -7,8 +7,8 @@ Thank you for your interest in contributing! 🎉
 1. **Fork** the repository on GitHub.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/safelog-js.git
-   cd safelog-js
+   git clone https://github.com/Srikar1824/safelog.git
+   cd safelog
    ```
 3. There are **no runtime dependencies** to install.
 
@@ -57,7 +57,7 @@ safelog-js/
 
 ## Reporting Issues
 
-Please use [GitHub Issues](https://github.com/srikar-1824/safelog-js/issues) to report bugs or request features. Include a minimal reproduction example when possible.
+Please use [GitHub Issues](https://github.com/Srikar1824/safelog/issues) to report bugs or request features. Include a minimal reproduction example when possible.
 
 ## Code Style
 

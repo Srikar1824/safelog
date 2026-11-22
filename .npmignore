@@ -1,0 +1,6 @@
+tests/
+examples/
+.github/
+.gitignore
+*.tgz
+CONTRIBUTING.md

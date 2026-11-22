@@ -1,0 +1,45 @@
+{
+  "name": "safelog-js",
+  "version": "1.0.0",
+  "description": "A lightweight utility to deep-clone JavaScript objects and redact sensitive fields before logging — keeps passwords, tokens, and PII out of your logs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "test:watch": "node --test --watch tests/",
+    "example": "node examples/basic.js"
+  },
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "keywords": [
+    "safelog",
+    "logging",
+    "security",
+    "redaction",
+    "masking",
+    "privacy",
+    "pii",
+    "sensitive-data",
+    "sanitize",
+    "express-middleware",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Srikar",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srikar-1824/safelog-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/srikar-1824/safelog-js/issues"
+  },
+  "homepage": "https://github.com/srikar-1824/safelog-js#readme"
+}
